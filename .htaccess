@@ -1,0 +1,34 @@
+Options -Multiviews
+
+RewriteEngine On
+
+
+RewriteBase /
+
+#RewriteCond %{HTTP_HOST} ^mekogas.com.vn
+#RewriteRule (.*) http://www.mekogas.com.vn/$1 [R=301,L]
+
+RewriteCond %{ENV:REDIRECT_STATUS} 200
+RewriteRule .* - [L]
+
+RewriteRule ^([a-zA-Z0-9_-]+)$ index.php?&lang=$1
+
+RewriteRule ^([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)$ index.php?lang=$1&view=$2
+
+RewriteRule ^([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)-i([0-9]+)$ index.php?lang=$1&view=$2&id=$4
+
+#RewriteRule ^([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)-cate([0-9]+)$ index.php?view=$1&cate_id=$3
+
+RewriteRule ^([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)-p([0-9]+)$ index.php?lang=$1&view=$2&pId=$4    
+RewriteRule ^([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/([0-9]+)/([a-zA-Z0-9_-]+)-p([0-9]+)$ index.php?lang=$1&view=$2&page=$3&pId=$5
+
+
+
+#RewriteRule ^tim-kiem/(.*)$ index.php?view=tim-kiem&hint=$1
+
+
+
+
+
+
+

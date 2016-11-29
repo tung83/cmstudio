@@ -24,14 +24,13 @@ unset($process);
 //define area
 define('_hostName'  , 'localhost');	
 
-define('_userName'  , 'cmstudio_db');	
+//define('_userName'  , 'cmstudio_db');	
+//define('_dbName'    , 'cmstudio_db');	
+//define('_pass'      , '671977');
+
+define('_userName'  , 'tung');	
 define('_dbName'    , 'cmstudio_db');	
-define('_pass'      , '671977');
-
-//define('_userName'  , 'root');	
-//define('_dbName'    , 'cine_magic');	
-//define('_pass'      , '');
-
+define('_pass'      , 'tung');
 define('domain'     ,'http://nghiaphat.psmedia.vn');
 define('root'       ,$_SERVER['DOCUMENT_ROOT']);
 define('myWeb'      ,'/');
