@@ -1,0 +1,63 @@
+[07-Oct-2016 11:36:22 Asia/Saigon] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/psmedia/public_html/cmagic/object/MysqliDb.php on line 218
+[07-Oct-2016 11:36:22 Asia/Saigon] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect Error 1045: Access denied for user 'root'@'localhost' (using password: NO)' in /home/psmedia/public_html/cmagic/object/MysqliDb.php:220
+Stack trace:
+#0 /home/psmedia/public_html/cmagic/config.php(56): MysqliDb->connect()
+#1 /home/psmedia/public_html/cmagic/front.php(2): include_once('/home/psmedia/p...')
+#2 /home/psmedia/public_html/cmagic/function.php(2): include_once('/home/psmedia/p...')
+#3 /home/psmedia/public_html/cmagic/index.php(1): include_once('/home/psmedia/p...')
+#4 {main}
+  thrown in /home/psmedia/public_html/cmagic/object/MysqliDb.php on line 220
+[07-Oct-2016 11:36:24 Asia/Saigon] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/psmedia/public_html/cmagic/object/MysqliDb.php on line 218
+[07-Oct-2016 11:36:24 Asia/Saigon] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect Error 1045: Access denied for user 'root'@'localhost' (using password: NO)' in /home/psmedia/public_html/cmagic/object/MysqliDb.php:220
+Stack trace:
+#0 /home/psmedia/public_html/cmagic/config.php(56): MysqliDb->connect()
+#1 /home/psmedia/public_html/cmagic/front.php(2): include_once('/home/psmedia/p...')
+#2 /home/psmedia/public_html/cmagic/function.php(2): include_once('/home/psmedia/p...')
+#3 /home/psmedia/public_html/cmagic/index.php(1): include_once('/home/psmedia/p...')
+#4 {main}
+  thrown in /home/psmedia/public_html/cmagic/object/MysqliDb.php on line 220
+[07-Oct-2016 11:37:02 Asia/Saigon] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/psmedia/public_html/cmagic/object/MysqliDb.php on line 218
+[07-Oct-2016 11:37:02 Asia/Saigon] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect Error 1045: Access denied for user 'root'@'localhost' (using password: NO)' in /home/psmedia/public_html/cmagic/object/MysqliDb.php:220
+Stack trace:
+#0 /home/psmedia/public_html/cmagic/config.php(56): MysqliDb->connect()
+#1 /home/psmedia/public_html/cmagic/front.php(2): include_once('/home/psmedia/p...')
+#2 /home/psmedia/public_html/cmagic/function.php(2): include_once('/home/psmedia/p...')
+#3 /home/psmedia/public_html/cmagic/index.php(1): include_once('/home/psmedia/p...')
+#4 {main}
+  thrown in /home/psmedia/public_html/cmagic/object/MysqliDb.php on line 220
+[07-Oct-2016 11:37:06 Asia/Saigon] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/psmedia/public_html/cmagic/object/MysqliDb.php on line 218
+[07-Oct-2016 11:37:06 Asia/Saigon] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect Error 1045: Access denied for user 'root'@'localhost' (using password: NO)' in /home/psmedia/public_html/cmagic/object/MysqliDb.php:220
+Stack trace:
+#0 /home/psmedia/public_html/cmagic/config.php(56): MysqliDb->connect()
+#1 /home/psmedia/public_html/cmagic/front.php(2): include_once('/home/psmedia/p...')
+#2 /home/psmedia/public_html/cmagic/function.php(2): include_once('/home/psmedia/p...')
+#3 /home/psmedia/public_html/cmagic/index.php(1): include_once('/home/psmedia/p...')
+#4 {main}
+  thrown in /home/psmedia/public_html/cmagic/object/MysqliDb.php on line 220
+[07-Oct-2016 11:37:10 Asia/Saigon] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/psmedia/public_html/cmagic/object/MysqliDb.php on line 218
+[07-Oct-2016 11:37:10 Asia/Saigon] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect Error 1045: Access denied for user 'root'@'localhost' (using password: NO)' in /home/psmedia/public_html/cmagic/object/MysqliDb.php:220
+Stack trace:
+#0 /home/psmedia/public_html/cmagic/config.php(56): MysqliDb->connect()
+#1 /home/psmedia/public_html/cmagic/front.php(2): include_once('/home/psmedia/p...')
+#2 /home/psmedia/public_html/cmagic/function.php(2): include_once('/home/psmedia/p...')
+#3 /home/psmedia/public_html/cmagic/index.php(1): include_once('/home/psmedia/p...')
+#4 {main}
+  thrown in /home/psmedia/public_html/cmagic/object/MysqliDb.php on line 220
+[07-Oct-2016 11:37:11 Asia/Saigon] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/psmedia/public_html/cmagic/object/MysqliDb.php on line 218
+[07-Oct-2016 11:37:11 Asia/Saigon] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect Error 1045: Access denied for user 'root'@'localhost' (using password: NO)' in /home/psmedia/public_html/cmagic/object/MysqliDb.php:220
+Stack trace:
+#0 /home/psmedia/public_html/cmagic/config.php(56): MysqliDb->connect()
+#1 /home/psmedia/public_html/cmagic/front.php(2): include_once('/home/psmedia/p...')
+#2 /home/psmedia/public_html/cmagic/function.php(2): include_once('/home/psmedia/p...')
+#3 /home/psmedia/public_html/cmagic/index.php(1): include_once('/home/psmedia/p...')
+#4 {main}
+  thrown in /home/psmedia/public_html/cmagic/object/MysqliDb.php on line 220
+[07-Oct-2016 11:37:13 Asia/Saigon] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/psmedia/public_html/cmagic/object/MysqliDb.php on line 218
+[07-Oct-2016 11:37:13 Asia/Saigon] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect Error 1045: Access denied for user 'root'@'localhost' (using password: NO)' in /home/psmedia/public_html/cmagic/object/MysqliDb.php:220
+Stack trace:
+#0 /home/psmedia/public_html/cmagic/config.php(56): MysqliDb->connect()
+#1 /home/psmedia/public_html/cmagic/front.php(2): include_once('/home/psmedia/p...')
+#2 /home/psmedia/public_html/cmagic/function.php(2): include_once('/home/psmedia/p...')
+#3 /home/psmedia/public_html/cmagic/index.php(1): include_once('/home/psmedia/p...')
+#4 {main}
+  thrown in /home/psmedia/public_html/cmagic/object/MysqliDb.php on line 220

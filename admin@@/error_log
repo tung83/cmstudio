@@ -1,0 +1,28 @@
+[12-Oct-2016 13:05:38 Asia/Saigon] PHP Warning:  mysql_query(): Access denied for user 'psmedia'@'localhost' (using password: NO) in /home/psmedia/public_html/cmagic/admin@@/index.php on line 64
+[12-Oct-2016 13:05:38 Asia/Saigon] PHP Warning:  mysql_query(): A link to the server could not be established in /home/psmedia/public_html/cmagic/admin@@/index.php on line 64
+[12-Oct-2016 14:14:14 Asia/Saigon] PHP Warning:  mysql_query(): Access denied for user 'psmedia'@'localhost' (using password: NO) in /home/psmedia/public_html/cmagic/admin@@/index.php on line 64
+[12-Oct-2016 14:14:14 Asia/Saigon] PHP Warning:  mysql_query(): A link to the server could not be established in /home/psmedia/public_html/cmagic/admin@@/index.php on line 64
+[07-Nov-2016 13:59:13 Asia/Saigon] PHP Warning:  mysql_query(): Access denied for user 'cmstudio'@'localhost' (using password: NO) in /home/cmstudio/public_html/admin@@/index.php on line 64
+[07-Nov-2016 13:59:13 Asia/Saigon] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cmstudio/public_html/admin@@/index.php on line 64
+[09-Nov-2016 21:34:09 Asia/Saigon] PHP Warning:  mysql_query(): Access denied for user 'cmstudio'@'localhost' (using password: NO) in /home/cmstudio/public_html/admin@@/index.php on line 64
+[09-Nov-2016 21:34:09 Asia/Saigon] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cmstudio/public_html/admin@@/index.php on line 64
+[14-Nov-2016 18:07:03 Asia/Saigon] PHP Warning:  mysql_query(): Access denied for user 'cmstudio'@'localhost' (using password: NO) in /home/cmstudio/public_html/admin@@/index.php on line 64
+[14-Nov-2016 18:07:03 Asia/Saigon] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cmstudio/public_html/admin@@/index.php on line 64
+[24-Nov-2016 15:03:33 Asia/Saigon] PHP Warning:  mysql_query(): Access denied for user 'cmstudio'@'localhost' (using password: NO) in /home/cmstudio/public_html/admin@@/index.php on line 64
+[24-Nov-2016 15:03:33 Asia/Saigon] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cmstudio/public_html/admin@@/index.php on line 64
+[24-Nov-2016 15:17:25 Asia/Saigon] PHP Warning:  mysql_query(): Access denied for user 'cmstudio'@'localhost' (using password: NO) in /home/cmstudio/public_html/admin@@/index.php on line 64
+[24-Nov-2016 15:17:25 Asia/Saigon] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cmstudio/public_html/admin@@/index.php on line 64
+[24-Nov-2016 16:33:55 Asia/Saigon] PHP Warning:  mysql_query(): Access denied for user 'cmstudio'@'localhost' (using password: NO) in /home/cmstudio/public_html/admin@@/index.php on line 64
+[24-Nov-2016 16:33:55 Asia/Saigon] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cmstudio/public_html/admin@@/index.php on line 64
+[28-Nov-2016 09:39:52 Asia/Saigon] PHP Warning:  mysql_query(): Access denied for user 'cmstudio'@'localhost' (using password: NO) in /home/cmstudio/public_html/admin@@/index.php on line 64
+[28-Nov-2016 09:39:52 Asia/Saigon] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cmstudio/public_html/admin@@/index.php on line 64
+[28-Nov-2016 15:13:23 Asia/Saigon] PHP Warning:  mysql_query(): Access denied for user 'cmstudio'@'localhost' (using password: NO) in /home/cmstudio/public_html/admin@@/index.php on line 64
+[28-Nov-2016 15:13:23 Asia/Saigon] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cmstudio/public_html/admin@@/index.php on line 64
+[29-Nov-2016 11:59:34 Asia/Saigon] PHP Warning:  mysql_query(): Access denied for user 'cmstudio'@'localhost' (using password: NO) in /home/cmstudio/public_html/admin@@/index.php on line 64
+[29-Nov-2016 11:59:34 Asia/Saigon] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cmstudio/public_html/admin@@/index.php on line 64
+[29-Nov-2016 15:52:15 Asia/Saigon] PHP Warning:  mysql_query(): Access denied for user 'cmstudio'@'localhost' (using password: NO) in /home/cmstudio/public_html/admin@@/index.php on line 64
+[29-Nov-2016 15:52:15 Asia/Saigon] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cmstudio/public_html/admin@@/index.php on line 64
+[29-Nov-2016 15:52:56 Asia/Saigon] PHP Warning:  mysql_query(): Access denied for user 'cmstudio'@'localhost' (using password: NO) in /home/cmstudio/public_html/admin@@/index.php on line 64
+[29-Nov-2016 15:52:56 Asia/Saigon] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cmstudio/public_html/admin@@/index.php on line 64
+[29-Nov-2016 15:53:20 Asia/Saigon] PHP Warning:  mysql_query(): Access denied for user 'cmstudio'@'localhost' (using password: NO) in /home/cmstudio/public_html/admin@@/index.php on line 64
+[29-Nov-2016 15:53:20 Asia/Saigon] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cmstudio/public_html/admin@@/index.php on line 64

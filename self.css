@@ -1,0 +1,222 @@
+/* Font-face Icons */
+@font-face {
+  font-family: 'MyriadPro-Regular';
+  src: url('fonts/MyriadPro-Regular.eot');
+  src: url('fonts/MyriadPro-Regular.woff2') format('woff2'),
+       url('fonts/MyriadPro-Regular.woff') format('woff'),
+       url('fonts/MyriadPro-Regular.ttf') format('truetype'),
+       url('fonts/MyriadPro-Regular.svg#MyriadPro-Regular') format('svg'),
+       url('fonts/MyriadPro-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'fontello';
+	src:url('fonts/fontello.eot');
+	src:url('fonts/fontello.eot?#iefix') format('embedded-opentype'),
+		url('fonts/fontello.woff') format('woff'),
+		url('fonts/fontello.ttf') format('truetype'),
+		url('fonts/fontello.svg#flexslider-icon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+#carousel li {margin-right: 5px;}
+#carousel img {display: block; opacity: .5; cursor: pointer;border:2px solid #ccc}
+#carousel img:hover {opacity: 1;}
+#carousel .flex-active-slide img {opacity: 1; cursor: default;}
+.scrollTo-top {
+    display: none;
+    position: fixed;
+    bottom: 16px;
+    right: 20px;
+    font-size: 32px;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 0.3rem;
+    z-index: 500;
+}
+.scrollTo-top:hover{
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.scrollTo-top i {
+    padding: 3px 10px;color:#fff
+}
+
+/**
+*Global
+*Background-color:#E14B3A,rgb(225, 75, 58)
+*Button-color:#C22E1D,rgb(194, 46, 29)
+*Menu hover background-color:#C43B2C,rgb(196, 59, 44)
+**/
+body{
+    background:url(/file/self/left_bg.png) top left no-repeat,url(/file/self/right_bg.png) top right no-repeat;
+    font-size:14px;font-family:arial
+}
+a{
+    text-decoration:none;transition: all 0.5s ease
+}
+a:hover{
+    text-decoration:none;
+    opacity:0.7
+}
+.white{
+    padding:20px 0px;background:url(/file/self/content_bg.JPG) no-repeat center top,url(/file/self/noisy-texture.png);
+    color:#fff
+}
+#header>div.row{
+    /*background:url(/file/self/logo.png) no-repeat center;
+    height:292px;
+    border:1px solid #ccc*/
+    position: relative;
+}
+#header>div.row .language-flag{
+    position:absolute;
+    top:5px;right:10px;width:50px
+}
+.container{
+    background:#fff url(/file/self/background.jpg) no-repeat top center
+}
+/*Menu*/
+.wsdownmenu{border:none !important;border-radius:0px !important}
+.wsdownmenu-list{
+    border:none !important
+}
+.wsdownmenu-list>li:first-child>a,.wsdownmenu-list>li:last-child>a{
+    border-radius: 0px !important;border:none !important
+}
+.wsdownmenu-list > li > a{
+    color:#fff;border:none !important;text-transform: uppercase;
+    background-color:#000000 !important;font-family:'MyriadPro-Regular';
+    font-size:17px;font-weight:bold
+}
+.wsdownmenu-list > li:hover>a,.wsdownmenu-list > li > a.active{
+    background:#000 !important; color:#28a9a1 !important;
+    opacity:1
+}
+.wsdownmenu-list li a .arrow{padding-right: 5px;}
+.wsdownmenu-list li a .arrow:after,
+.wsdownmenu-list li>a .arrow:after{ border-top-color:#fff;}
+
+.wsdownmenu-list li a:hover .arrow:after,
+.wsdownmenu-list li a.active .arrow:after,
+.wsdownmenu-list li:hover>a .arrow:after{ border-top-color:#28a9a1;}
+
+.wsdownmenu-submenu{
+    border-color:#895736 !important 
+}
+.position-right{right:0px !important}
+.wsdownmenu-submenu > li > a{
+    background:#000 !important;color:#fff !important;border-radius:0px !important;min-width: 280px !important;
+}
+.wsdownmenu-submenu > li > a:hover {background:#000 !important; color:#28a9a1 !important}
+.megamenu{background:#000}
+.megamenu li,.megamenu li a{color:#fff !important}
+.megamenu li a{background: #000 !important;}
+
+/*Menu End*/
+
+.product-cate{
+    position:relative;display:block;margin-bottom:20px
+}
+.product-cate span{
+    position:absolute;bottom:0px;
+    left:50%;
+    width:300px;
+    padding:15px 20px;
+    background:#395551;
+    color:#fff;font-weight:bold;
+    margin-left:-150px;
+    text-align:center;text-transform:uppercase;
+    -webkit-box-shadow: inset 0px 5px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: inset 0px 5px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: inset 0px 5px 5px 0px rgba(0,0,0,0.75);
+}
+.product-cate span em{
+    font-style:normal;
+    display:block;
+    font-weight: normal;
+}
+.product-cate span b{
+    font-style:normal;
+    display:block;
+    font-weight: normal;
+}
+.price p{
+    font-size:20px;font-weight:bold
+}
+.about-item{
+    margin-bottom:20px;display:block
+}
+.about-item{
+    color:#fff
+}
+.about-item:hover{
+    color:#fff
+}
+.about-item h2{
+    font-size:20px;font-weight:bold;
+    line-height:20px;margin-bottom:5px
+}
+article>h1{
+    font-size:40px;color:#fff;font-weight:bold;
+    line-height:40px;margin-bottom:5px
+}
+h2.title-tag{
+    margin:20px 0px;
+    font-size:20px;font-weight:bold;
+    text-transform:uppercase;
+    border-bottom: 2px solid #fff;
+    padding-bottom:10px
+}
+.video-list{
+    display:block
+}
+.video-list h2{
+    background:#fff;padding:10px 5px;color:#000;
+    text-transform:uppercase;font-weight: bold;
+}
+.map iframe{width:100%}
+.video-list>div{
+    margin-bottom:20px
+}
+#footer>div.row{
+    padding:20px 0px;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#5a5959+0,404041+33,1f1f1f+44,050505+53,000000+100 */
+    background: #5a5959; /* Old browsers */
+    background: -moz-linear-gradient(left,  #5a5959 0%, #404041 33%, #1f1f1f 44%, #050505 53%, #000000 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left,  #5a5959 0%,#404041 33%,#1f1f1f 44%,#050505 53%,#000000 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right,  #5a5959 0%,#404041 33%,#1f1f1f 44%,#050505 53%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5a5959', endColorstr='#000000',GradientType=1 ); /* IE6-9 */
+}
+/*xs block*/
+.breadcrumb{
+    background:none
+}
+.breadcrumb li{
+    font-size:16px;font-weight:bold
+}
+.breadcrumb a {color: rgba(255, 255, 255, 1);font-family:'MyriadPro-Regular'}
+.breadcrumb a:hover {color: rgba(255, 255, 255, 0.7);}
+.breadcrumb>.active {color: rgba(255, 255, 255, 0.7);}
+.breadcrumb>li+li:before {color: rgba(50, 202, 216, 1); content: "\003E\003E\00a0";}
+@media (max-width: 767px){
+   
+}
+/*sm block*/
+@media (min-width: 768px) and (max-width: 991px){
+    
+}
+/*md block*/
+@media (min-width: 992px) and (max-width: 1199px){
+    .container{
+        width:940px !important
+    }    
+}
+/*lg block*/
+@media (min-width: 1200px){
+    .container{
+        width:940px !important
+    }    
+}
+

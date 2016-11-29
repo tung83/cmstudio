@@ -1,0 +1,46 @@
+<?php
+define('cate'           ,'Categories');
+define('sys'            ,'Hệ thống phân phối');
+define('sys_desc'       ,'Hệ thống phân phối của Mekong rộng khắp toàn quốc');
+define('sys_view'       ,'distribution-system');
+define('gua'            ,'Bảo hành');
+define('gua_desc'       ,'');
+define('news'           ,'Tin tức');
+define('video'          ,'Video');
+define('onl'            ,'Đang online');
+define('vis'            ,'Tổng truy cập');
+define('city_choose'    ,'Choose Province/City...');
+define('dist_choose'    ,'Choose District...');
+define('more'           ,'Read more...');
+define('about_title'    ,'About us');
+define('product_title'  ,'Products');
+define('detail_price'   ,'Price');
+define('feature'        ,'Highlight Features');
+define('content'        ,'Describe');
+define('detail'         ,'Detail');
+define('teach'          ,'Manual Instruction');
+define('contact'        ,'Contact US');
+define('contact_desc'   ,'Contact with Mekogas');
+define('pd_view'        ,'san-pham');
+define('sp_title'       ,'Support');
+define('video_title'    ,'Video');
+define('search'         ,'Search');
+define('all'            ,'See All');
+
+define('contact_t1'             ,'Cảm ơn Quý khách ghé thăm website của chúng tôi.<br />Mọi thông tin chi tiết xin vui lòng liên hệ:');
+define('contact_t2'             ,'Hoặc vui lòng gởi thông tin liên hệ cho chúng tôi theo form dưới đây:');
+define('contact_name'           ,'Họ tên...');
+define('contact_name_desc'      ,'Vui lòng nhập họ tên');
+define('contact_adds'           ,'Địa chỉ...');
+define('contact_adds_desc'      ,'Vui lòng nhập địa chỉ của bạn');
+define('contact_phone'          ,'Điện thoại...');
+define('contact_phone_desc'     ,'Vui lòng nhập số phone của bạn');
+define('contact_email'          ,'Email...');
+define('contact_email_desc'     ,'Định dạng email không đúng');
+define('contact_subject'        ,'Tiêu đề...');
+define('contact_subject_desc'   ,'Vui lòng nhập tiêu đề');
+define('contact_content'        ,'Nội dung...');
+define('contact_content_desc'   ,'Vui lòng nhập nội dung');
+define('contact_btn_send'       ,'Gửi');
+define('contact_btn_reset'      ,'Xoá');
+?>
